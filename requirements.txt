@@ -1,0 +1,10 @@
+flask
+python-dotenv
+langchain-google-genai
+google-generativeai
+pydantic
+browser-use
+openai-whisper
+soundfile
+elevenlabs
+pydub
